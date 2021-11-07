@@ -1,4 +1,4 @@
-## Olá, sou o Christian Hitoshi 👋
+## Olá, sou o Christian Hitoshi 🇧🇷🙃
 
 - 👨‍🎓 Aluno Bandtec | Faculdade Bandeirantes
 - 🧑‍💻 Estagiário Front-end na ALPE
