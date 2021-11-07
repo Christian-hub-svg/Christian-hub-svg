@@ -14,14 +14,14 @@
 - <img height="25em" src="https://user-images.githubusercontent.com/68028807/140656943-87f967d0-79cb-47ef-9ddd-92b0de1a9687.png"> Instagram: https://www.instagram.com/chrishamai/?hl=pt-br
 - <img height="25em" src="https://user-images.githubusercontent.com/68028807/140656925-1015b9a4-883c-42f4-bf77-32d1556c3f77.png"> Facebook: https://www.facebook.com/christian.takayamahamai/
 
+## Stats
 <div align="center">
   <a href="https://github.com/Christian-hub-svg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Christian-hub-svg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-hub-svg&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-##
-  
+## Linguagens  
 <div align="center">
   <img height="100em" alt="Chris-HTML" src="https://user-images.githubusercontent.com/68028807/140657369-00311b35-d0c9-496e-a328-b16eec74df52.png">
   <img height="100em" alt="Chris-CSS" src="https://user-images.githubusercontent.com/68028807/140657439-c63c6aea-1d34-4a5e-badb-c37beaf342d4.png">
