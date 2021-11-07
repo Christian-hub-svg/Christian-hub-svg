@@ -10,12 +10,9 @@
 - 📱 Celular: (11)97649-1734
 
 ## Redes Sociais
-- ![image](https://user-images.githubusercontent.com/68028807/140656983-1c1b2eac-9a0b-4d94-9a89-6acb0e2665e4.png)
- Linkedin: https://www.linkedin.com/in/christian-hitoshi-362797205/
-- ![image](https://user-images.githubusercontent.com/68028807/140656943-87f967d0-79cb-47ef-9ddd-92b0de1a9687.png)
- Instagram: https://www.instagram.com/chrishamai/?hl=pt-br
-- ![image](https://user-images.githubusercontent.com/68028807/140656925-1015b9a4-883c-42f4-bf77-32d1556c3f77.png)
- Facebook: https://www.facebook.com/christian.takayamahamai/
+- <img height="25em" src="https://user-images.githubusercontent.com/68028807/140656983-1c1b2eac-9a0b-4d94-9a89-6acb0e2665e4.png"> Linkedin: https://www.linkedin.com/in/christian-hitoshi-362797205/
+- <img height="25em" src="https://user-images.githubusercontent.com/68028807/140656943-87f967d0-79cb-47ef-9ddd-92b0de1a9687.png"> Instagram: https://www.instagram.com/chrishamai/?hl=pt-br
+- <img height="25em" src="https://user-images.githubusercontent.com/68028807/140656925-1015b9a4-883c-42f4-bf77-32d1556c3f77.png"> Facebook: https://www.facebook.com/christian.takayamahamai/
 
 <div align="center">
   <a href="https://github.com/Christian-hub-svg">
@@ -26,5 +23,9 @@
 ##
   
 <div align="center">
-  <img height="50em" src="![image](https://user-images.githubusercontent.com/68028807/140657040-bef0e000-bd70-43d8-a289-fbfb44b4f9d1.png)">
+  <img height="100em" alt="Chris-HTML" src="https://user-images.githubusercontent.com/68028807/140657369-00311b35-d0c9-496e-a328-b16eec74df52.png">
+  <img height="100em" alt="Chris-CSS" src="https://user-images.githubusercontent.com/68028807/140657439-c63c6aea-1d34-4a5e-badb-c37beaf342d4.png">
+  <img height="100em" alt="JavaScript" src="https://user-images.githubusercontent.com/68028807/140657536-aa1f2e4b-ce51-4e0d-ad8a-c055c0a5ccf2.png">
+  <img height="100em" alt="Chris-Angular" src="https://user-images.githubusercontent.com/68028807/140657631-e3c35645-46ce-43f5-8f6b-0f5cbf36d851.png">
+  <img height="100em" alt="Chris-Java" src="https://user-images.githubusercontent.com/68028807/140657320-2fc6e81b-9973-42ec-88fc-d59a65920a70.png">
 </div>
