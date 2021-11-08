@@ -17,8 +17,8 @@
 ## Stats
 <div align="center">
   <a href="https://github.com/Christian-hub-svg">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Christian-hub-svg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-hub-svg&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chris-hitoshi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-hitoshi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## Linguagens  
@@ -27,5 +27,5 @@
   <img height="100em" alt="Chris-CSS" src="https://user-images.githubusercontent.com/68028807/140657439-c63c6aea-1d34-4a5e-badb-c37beaf342d4.png">
   <img height="100em" alt="JavaScript" src="https://user-images.githubusercontent.com/68028807/140657536-aa1f2e4b-ce51-4e0d-ad8a-c055c0a5ccf2.png">
   <img height="100em" alt="Chris-Angular" src="https://user-images.githubusercontent.com/68028807/140657631-e3c35645-46ce-43f5-8f6b-0f5cbf36d851.png">
-  <img height="100em" alt="Chris-Java" src="https://user-images.githubusercontent.com/68028807/140657320-2fc6e81b-9973-42ec-88fc-d59a65920a70.png">
+  <img height="100em" alt="Chris-Java" src="https://user-images.githubusercontent.com/68028807/140807551-5d59529a-5e71-4dd0-be85-566c96cbd6ba.png">
 </div>
