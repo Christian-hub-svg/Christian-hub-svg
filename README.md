@@ -7,7 +7,7 @@
 
 ## Contatos
 - 💬 Email: tetihamai@gmail.com
-- 📱 Celular: (11)97649-1734
+- 📱 Celular: +55 (11) 97649-1734
 
 ## Redes Sociais
 - <img height="25em" src="https://user-images.githubusercontent.com/68028807/140656983-1c1b2eac-9a0b-4d94-9a89-6acb0e2665e4.png"> Linkedin: https://www.linkedin.com/in/christian-hitoshi-362797205/
