@@ -28,4 +28,5 @@
   <img height="80em" alt="JavaScript" src="https://user-images.githubusercontent.com/68028807/140808254-17c79902-9945-4345-8e1a-7d62ae477c5a.png">
   <img height="80em" alt="Chris-Angular" src="https://user-images.githubusercontent.com/68028807/140657631-e3c35645-46ce-43f5-8f6b-0f5cbf36d851.png">
   <img height="80em" alt="Chris-Java" src="https://user-images.githubusercontent.com/68028807/140807551-5d59529a-5e71-4dd0-be85-566c96cbd6ba.png">
+  <img height="80em" alt="Chris-Flutter" src="https://user-images.githubusercontent.com/68028807/159812034-f842f884-0627-4b0f-b7cf-5133aa88662b.png">
 </div>
