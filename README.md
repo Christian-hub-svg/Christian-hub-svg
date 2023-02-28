@@ -1,9 +1,9 @@
 ## Olá, sou o Christian Hitoshi 🇧🇷🙃
 
-- 👨‍🎓 Aluno Bandtec | Faculdade Bandeirantes
-- 🧑‍💻 Estagiário Front-end na ALPE
-- 🧠 Conhecimento em HTML, CSS, JavaScript
-- 🤔 Aprendendo Java e Angular
+- 👨‍🎓 Formado na Bandtec | Faculdade Bandeirantes de Tecnologia
+- 🧑‍💻 Dev Front-end Júnior na ALPE
+- 🧠 Conhecimento em HTML, CSS, JavaScript, Java e Flutter
+- 🤔 Atualmente desenvolvedor Mobile com Flutter
 
 ## Contatos
 - 💬 Email: tetihamai@gmail.com
