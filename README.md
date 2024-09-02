@@ -5,7 +5,7 @@
 - 🤔 Atualmente desenvolvedor Mobile com Flutter
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrishamai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-hitoshi) [![Gmail](https://img.shields.io/badge/Gmail-D14836)](mailto:christian.hitoshi@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrishamai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/christian-hitoshi](https://www.linkedin.com/in/christian-hitoshi-362797205/)) [![Gmail](https://img.shields.io/badge/Gmail-D14836)](mailto:christian.hitoshi@gmail.com)
 
 # 📊 GitHub Stats:
 <div align="center">
